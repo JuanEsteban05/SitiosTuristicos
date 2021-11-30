@@ -1,10 +1,35 @@
 <resources>
     <string name="app_name">Sitios Turisticos</string>
     <string name="castillo">Castillo de San Felipe de Barajas</string>
-    <string name="castillo_descripcion">El Castillo San Felipe de Barajas es una fortificación localizada en la ciudad colombiana de Cartagena de Indias. Está situado sobre un cerro llamado San Lázaro y fue construido en 1657 durante la época colonial española. Sufrió constantes ataques por parte de los ingleses y franceses, siendo el comandante francés Barón de Pointis quien tomara el castillo a mediados de 1697.
+    <string name="castillo_descripcion">El Castillo San Felipe de Barajas es una fortificación localizada en la ciudad colombiana de Cartagena de Indias. Está situado sobre un cerro llamado San Lázaro y fue construido en 1657 durante la época colonial española.
         Hace parte del Patrimonio Histórico y Cultural de Colombia, según el Ministerio de Cultura.</string>
     <string name="islas_rosario_descripcion">Las islas del Rosario es un pequeño archipiélago formado por unas 28 islas, ​ que es parte de la zona insular de Cartagena de indias, ​​​ con una superficie terrestre de 20 hectáreas ubicado frente a las costas del Departamento de Bolívar, a la misma latitud que la península de Barú. En ellas se ubica uno de los parques nacionales naturales de Colombia, creado para proteger uno de los arrecifes coralinos más importantes de la costa Caribe colombiana.</string>
     <string name="museo_descripcion">Palacio de la Inquisición es un edificio situado en Cartagena de Indias.​Antigua sede del tribunal de la inquisición de la Iglesia católica, el edificio fue construido en 1770 en estilo colonial y barroco. En 1953, se convirtió en la sede del Museo Histórico de Cartagena.</string>
     <string name="torre_reloj_descripcion">La Puerta del Reloj, Torre del Reloj o Boca del Puente o Plaza Internacional Carlos Campillo es la puerta de entrada principal al centro histórico de Cartagena de Indias en Colombia y la entrada original a la ciudad fortificada. Está ubicado entre las plazas de Independencia y de los Coches. El nombre Puerta del Relojresponde al reloj con el que fue coronada la torre a principios del siglo XVIII. Mientras que el nombre de Boca del Puente se debe al hecho que, durante el período colonial español, se levantó un puente levadizo al pie del antiguo Canal de San Anastasio, que unía la Ciudad Amurallada con el legendario Barrio Getsemaní.</string>
     <string name="plaza_descripcion">La Plaza de Santo Domingo es el sitio alrededor del cual gira la vida nocturna de la ciudad amurallada. Allí abundan bares, anticuarios, joyerías, cafés y restaurantes. La plaza es muy frecuentada, además de turistas, por teatreros, músicos, bailarines y otros artistas que ofrecen sus espectáculos al lado de la iglesia de Santo Domingo, y de la escultura ‘Gertrudis’, del maestro Fernando Botero.</string>
+    <string name="descripcion_ciudad">Cartagena es una ciudad portuaria en la costa caribeña de Colombia. Junto al mar, se encuentra la Ciudad Vieja amurallada, que se fundó en el siglo XVI, con plazas, calles de adoquines y edificios coloniales coloridos. Con un clima tropical, la ciudad también es un destino popular por sus playas.</string>
+
+
+    <string name="ubicaci_n">Ubicación</string>
+    <string name="Lugar1">CascadafindelMundo</string>
+    <string name="nombre_poi">Castillo de San Felipe de Barajas</string>
+    <string name="calificacion">4.8</string>
+    <string name="calificacionfix">Calificacion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Notificaciones</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Activar Notificaciones</string>
+    <string name="attachment_title">Sonido de Notificaciones</string>
+    <string name="attachment_summary_on">Activar sonido de notificaciones
+    </string>
+    <string name="attachment_summary_off">Desactivar sonido de notificaciones</string>
+
 </resources>

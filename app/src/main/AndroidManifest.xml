@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sitiosturisticos">
-
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,19 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SitiosTuristicos">
         <activity
-            android:name=".PlazaSantoDomingo"
+            android:name=".Notificaciones"
             android:exported="false" />
         <activity
-            android:name=".TorreReloj"
+            android:name=".sitioTuristico"
             android:exported="false" />
+
         <activity
-            android:name=".MuseoInquisicion"
-            android:exported="false" />
-        <activity
-            android:name=".IslasRosario"
-            android:exported="false" />
-        <activity
-            android:name=".castillo"
+            android:name=".DatosPoi"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

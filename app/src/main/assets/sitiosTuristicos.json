@@ -1,0 +1,52 @@
+[
+  {
+            "titulo":"Castillo de San Felipe de Barajas",
+            "pDescripcion":"Es una fortificación localizada en la ciudad colombiana de Cartagena de Indias. Está situado sobre un cerro llamado San Lázaro y fue construido en 1657 durante la época colonial española",
+            "descripcionGeneral": "El Castillo San Felipe de Barajas es una fortificación localizada en la ciudad colombiana de Cartagena de Indias. Está situado sobre un cerro llamado San Lázaro y fue construido en 1657 durante la época colonial española. Hace parte del Patrimonio Histórico y Cultural de Colombia, según el Ministerio de Cultura.",
+            "imagen":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906669/c1_le4xoz.jpg",
+            "imagen2":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906663/imagen1_cgkojl.jpg",
+            "horario":"Lunes a domingo de 8 a.m. a 6 p.m.",
+            "ubicacion":"El Castillo San Felipe de Barajas se encuentra en la Avenida Antonio Arévalo, en el sector Pie del Cerro",
+            "puntuacion" : 4.6
+        },
+        {
+            "titulo":"Islas del Rosario",
+            "pDescripcion":"Es un pequeño archipiélago formado por unas 28 islas. En ellas se ubica uno de los parques nacionales naturales de Colombia, creado para proteger uno de los arrecifes coralinos más importantes de la costa Caribe colombiana.",
+            "descripcionGeneral" : "Las islas del Rosario es un pequeño archipiélago formado por unas 28 islas, que es parte de la zona insular de Cartagena de indias, con una superficie terrestre de 20 hectáreas ubicado frente a las costas del Departamento de Bolívar, a la misma latitud que la península de Barú.\n En ellas se ubica uno de los parques nacionales naturales de Colombia, creado para proteger uno de los arrecifes coralinos más importantes de la costa Caribe colombiana.",
+            "imagen":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906664/c2_rpreob.jpg",
+            "imagen2":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906665/imagen2_fgd81r.jpg",
+            "horario":"El horario de atención será de 8:00 de la mañana a 4:00 de la tarde.",
+            "ubicacion":"Para ir hasta la reserva natural es necesario dirigirse al Muelle de La Bodeguita en el Centro Histórico.",
+            "puntuacion": 4.7
+        },
+        {
+            "titulo":"Museo Histórico Casa de la Inquisición",
+            "pDescripcion":"Antigua sede del tribunal de la inquisición de la Iglesia católica, el edificio fue construido en 1770 en estilo colonial y barroco. En 1953, se convirtió en la sede del Museo Histórico de Cartagena.",
+            "descripcionGeneral" :"Palacio de la Inquisición es un edificio situado en Cartagena de Indias. Antigua sede del tribunal de la inquisición de la Iglesia católica, el edificio fue construido en 1770 en estilo colonial y barroco. En 1953, se convirtió en la sede del Museo Histórico de Cartagena.",
+            "imagen":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906664/c3_toqug9.jpg",
+            "imagen2":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906663/imagen3_v60hdb.jpg",
+            "horario":"De las 09:00 a las 18:00",
+            "ubicacion":"Dirección: Centro Plaza Bolivar",
+            "puntuacion" :4.3
+        },
+        {
+            "titulo": "Monumento Torre Del Reloj",
+            "pDescripcion":"Es la puerta de entrada principal al centro histórico de Cartagena de Indias en Colombia y la entrada original a la ciudad fortificada. Está ubicado entre las plazas de Independencia y de los Coches. El nombre \"Puerta del Reloj\" responde al reloj con el que fue coronada la torre a principios del siglo XVIII. ",
+            "descripcionGeneral":"La Puerta del Reloj, Torre del Reloj o Boca del Puente o Plaza Internacional Carlos Campillo es la puerta de entrada principal al centro histórico de Cartagena de Indias en Colombia y la entrada original a la ciudad fortificada. Está ubicado entre las plazas de Independencia y de los Coches.\n El nombre Puerta del Reloj responde al reloj con el que fue coronada la torre a principios del siglo XVIII. Mientras que el nombre de Boca del Puente se debe al hecho que, durante el período colonial español, se levantó un puente levadizo al pie del antiguo Canal de San Anastasio, que unía la Ciudad Amurallada con el legendario Barrio Getsemaní.",
+            "imagen":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906664/c4_bp0fqb.jpg",
+            "imagen2":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906662/imagen4_mydssl.jpg",
+            "horario":"Abierto las 24 horas",
+            "ubicacion":"Entre las plazas de La Paz y de Los Coches, que antiguamente era el mercado de esclavos.",
+            "puntuacion":4.6
+        },
+        {
+            "titulo":"Plaza Santo Domingo",
+            "pDescripcion":"Es el sitio alrededor del cual gira la vida nocturna de la ciudad amurallada. Allí abundan bares, anticuarios, joyerías, cafés y restaurantes.",
+            "descripcionGeneral":"La Plaza de Santo Domingo es el sitio alrededor del cual gira la vida nocturna de la ciudad amurallada. Allí abundan bares, anticuarios, joyerías, cafés y restaurantes.\n La plaza es muy frecuentada, además de turistas, por teatreros, músicos, bailarines y otros artistas que ofrecen sus espectáculos al lado de la iglesia de Santo Domingo, y de la escultura ‘Gertrudis’, del maestro Fernando Botero.",
+            "imagen":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906666/c5_zmit3t.jpg",
+            "imagen2":"https://res.cloudinary.com/ingeniousapps/image/upload/v1637906663/imagen5_pp7ocp.jpg",
+            "horario":"Abierto las 24 horas",
+            "ubicacion":"Cl. 35, Cartagena",
+            "puntuacion": 4.6
+        }
+]
