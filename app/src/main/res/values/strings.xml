@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sitios Turisticos</string>
+    <string name="app_name">Destiny Travel</string>
     <string name="castillo">Castillo de San Felipe de Barajas</string>
     <string name="castillo_descripcion">El Castillo San Felipe de Barajas es una fortificación localizada en la ciudad colombiana de Cartagena de Indias. Está situado sobre un cerro llamado San Lázaro y fue construido en 1657 durante la época colonial española.
         Hace parte del Patrimonio Histórico y Cultural de Colombia, según el Ministerio de Cultura.</string>
@@ -15,7 +15,8 @@
     <string name="nombre_poi">Castillo de San Felipe de Barajas</string>
     <string name="calificacion">4.8</string>
     <string name="calificacionfix">Calificacion</string>
-    <!-- TODO: Remove or change this placeholder text -->
+
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <!-- Preference Titles -->
     <string name="messages_header">Messages</string>
@@ -28,8 +29,7 @@
     <!-- Sync Preferences -->
     <string name="sync_title">Activar Notificaciones</string>
     <string name="attachment_title">Sonido de Notificaciones</string>
-    <string name="attachment_summary_on">Activar sonido de notificaciones
-    </string>
-    <string name="attachment_summary_off">Desactivar sonido de notificaciones</string>
+    <string name="attachment_summary_on">Desactivar sonido de notificaciones</string>
+    <string name="attachment_summary_off">Activar sonido de notificaciones</string>
 
 </resources>

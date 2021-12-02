@@ -1,18 +1,18 @@
 package com.example.sitiosturisticos
 
-import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import android.widget.RatingBar
-import android.os.Bundle
 import androidx.recyclerview.widget.RecyclerView
 import com.example.sitiosturisticos.model.PoiItem
 import com.squareup.picasso.Picasso
 
-class Lista_poi ( private  val poiList :ArrayList<PoiItem>)
+class Lista_poi (private  val poiList :ArrayList<PoiItem>,
+                 private val onItemClicked:(PoiItem)->Unit
+)
     : RecyclerView.Adapter<Lista_poi.ViewHolder> (){
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
@@ -22,6 +22,7 @@ class Lista_poi ( private  val poiList :ArrayList<PoiItem>)
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val lugar=poiList[position]
+        holder.itemView.setOnClickListener{onItemClicked(poiList[position])}
         holder.bind(lugar)
     }
 
@@ -41,7 +42,7 @@ class Lista_poi ( private  val poiList :ArrayList<PoiItem>)
             Picasso.get().load(lugar.imagen).into(pictureView)
 
 
-
+/*
             itemView.setOnClickListener{
                 val intent = Intent(itemView.context, DatosPoi::class.java)
                 val bundle = Bundle()
@@ -50,7 +51,8 @@ class Lista_poi ( private  val poiList :ArrayList<PoiItem>)
 
                 intent.putExtras(bundle)
                 itemView.context.startActivity(intent)
-            }
+            }*/
         }
+
     }
 }

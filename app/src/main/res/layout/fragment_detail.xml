@@ -9,42 +9,18 @@
     android:layout_marginRight="5dp"
     android:layout_marginBottom="5dp"
     android:orientation="vertical"
-    tools:context=".DatosPoi">
+    tools:context=".DetailFragment">
 
-    <LinearLayout
+    <TextView
+        android:id="@+id/textViewTituloP"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:orientation="horizontal">
-
-        <ImageButton
-            android:id="@+id/btnAtras"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:scaleType="fitXY"
-            app:srcCompat="?attr/homeAsUpIndicator"
-            tools:ignore="SpeakableTextPresentCheck" />
-
-        <TextView
-            android:id="@+id/textViewTituloP"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="@string/castillo"
-            android:textAlignment="center"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-        <ImageButton
-            android:id="@+id/imageButtonConfig"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:scaleType="fitXY"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@android:drawable/ic_menu_manage"
-            tools:ignore="SpeakableTextPresentCheck" />
-
-    </LinearLayout>
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/castillo"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/imageViewP"

@@ -22,4 +22,5 @@ data class PoiItem(
     @SerializedName("ubicacion")
     val ubicacion: String
 ):Serializable{
+
 }

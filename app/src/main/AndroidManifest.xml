@@ -9,16 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SitiosTuristicos">
-        <activity
-            android:name=".Notificaciones"
-            android:exported="false" />
+
         <activity
             android:name=".sitioTuristico"
             android:exported="false" />
 
-        <activity
-            android:name=".DatosPoi"
-            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
