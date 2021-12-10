@@ -20,7 +20,11 @@ data class PoiItem(
     @SerializedName("titulo")
     val titulo: String,
     @SerializedName("ubicacion")
-    val ubicacion: String
+    val ubicacion: String,
+    @SerializedName("latitud")
+    val latitud: Float,
+    @SerializedName("longitud")
+    val longitud: Float
 ):Serializable{
 
 }

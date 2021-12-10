@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/listFragment"
-        android:name="com.example.sitiosturisticos.ListFragment"
+        android:name="com.example.sitiosturisticos.lista.ListFragment"
         android:label="fragment_list"
         tools:layout="@layout/fragment_list" >
         <action
@@ -23,12 +23,24 @@
         android:label="SettingsFragment" />
     <fragment
         android:id="@+id/detailFragment"
-        android:name="com.example.sitiosturisticos.DetailFragment"
+        android:name="com.example.sitiosturisticos.detalle.DetailFragment"
         android:label="fragment_detail"
         tools:layout="@layout/fragment_detail" >
         <action
             android:id="@+id/action_detailFragment_to_settingsFragment"
             app:destination="@id/settingsFragment" />
+        <argument
+            android:name="poi"
+            app:argType="com.example.sitiosturisticos.model.PoiItem" />
+        <action
+            android:id="@+id/action_detailFragment_to_mapsFragment"
+            app:destination="@id/mapsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.example.sitiosturisticos.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" >
         <argument
             android:name="poi"
             app:argType="com.example.sitiosturisticos.model.PoiItem" />

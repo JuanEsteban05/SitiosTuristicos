@@ -29,6 +29,13 @@ class Lista_poi (private  val poiList :ArrayList<PoiItem>,
     override fun getItemCount(): Int {
         return poiList.size
     }
+
+    fun appendItems(newItems: ArrayList<PoiItem>){
+        poiList.clear()
+        poiList.addAll(newItems)
+        notifyDataSetChanged()
+    }
+
     class ViewHolder(itemview: View):RecyclerView.ViewHolder(itemview){
         private var nameTextView: TextView = itemview.findViewById(R.id.textView_titulo)
         private var descripcionTextView: TextView = itemview.findViewById(R.id.textView_descripcion)

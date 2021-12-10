@@ -8,6 +8,8 @@
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/MinTic_IngeniousApps/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/MinTic_IngeniousApps/app/src/main/res/layout/activity_museo_inquisicion.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/MinTic_IngeniousApps/app/src/main/res/layout/fragment_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/layout/activity_castillo.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/layout/activity_datos_poi.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/layout/activity_islas_rosario.xml" value="0.25416666666666665" />
@@ -20,6 +22,7 @@
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/layout/fragment_fragmento_detalle.xml" value="0.11018518518518519" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/layout/fragment_list.xml" value="0.264" />
+        <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/layout/fragment_maps.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/layout/fragment_principal.xml" value="0.264" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/menu/menu_overflow.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Juanes/AndroidStudioProjects/SitiosTuristicos/app/src/main/res/xml/root_preferences.xml" value="0.25416666666666665" />
